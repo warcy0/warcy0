@@ -1,4 +1,4 @@
-`w.#1337`
+`ata#1337`
 
 <p>
 <img src = "https://github-readme-stats.vercel.app/api?username=warcy0&show_icons=true&theme=tokyonight"/>
